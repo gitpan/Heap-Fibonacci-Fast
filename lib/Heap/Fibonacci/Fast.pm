@@ -1,6 +1,6 @@
 package Heap::Fibonacci::Fast;
 
-our $VERSION = '0.01';
+our $VERSION = '0.0101';
 
 use XSLoader;
 XSLoader::load(__PACKAGE__, $VERSION);
